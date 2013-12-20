@@ -2,7 +2,7 @@
 
 __Authors:__ [Dmitry Groshev] (https://github.com/si14/), [Sergei Lebedev] (https://github.com/superbobry/).
 
-An Erlang port of [itsangerous](https://github.com/mitsuhiko/itsdangerous).
+An Erlang port of [itsdangerous](https://github.com/mitsuhiko/itsdangerous).
 
 Quick examples
 --------------
