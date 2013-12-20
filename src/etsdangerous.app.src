@@ -1,0 +1,12 @@
+{application, etsdangerous,
+ [
+  {description, "Port of itsdangerous lib to Erlang"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  crypto
+                 ]},
+  {env, []}
+ ]}.
