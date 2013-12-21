@@ -1,6 +1,9 @@
-# etsdangerous
+# etsdangerous [![Build Status][travis-img]][travis]
 
-__Authors:__ [Dmitry Groshev] (https://github.com/si14/), [Sergei Lebedev] (https://github.com/superbobry/).
+[travis]: http://travis-ci.org/selectel/etsdangerous
+[travis-img]: https://secure.travis-ci.org/selectel/etsdangerous.png
+
+__Authors:__ [Dmitry Groshev](https://github.com/si14/), [Sergei Lebedev](https://github.com/superbobry/).
 
 An Erlang port of [itsdangerous](https://github.com/mitsuhiko/itsdangerous).
 
