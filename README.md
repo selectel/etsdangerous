@@ -22,7 +22,7 @@ Quick examples
 {ok,{<<"data">>,undefined}}
 ```
 
-#### Exparing signatures:
+#### Expiring signatures:
 
 ```erlang
 1> S = etsdangerous:ts_signer(<<"secret-key">>, 10).
