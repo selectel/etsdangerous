@@ -1,7 +1,7 @@
 # etsdangerous [![Build Status][travis-img]][travis]
 
 [travis]: http://travis-ci.org/selectel/etsdangerous
-[travis-img]: https://secure.travis-ci.org/selectel/etsdangerous.png
+[travis-img]: https://travis-ci.org/selectel/etsdangerous.svg
 
 __Authors:__ [Dmitry Groshev](https://github.com/si14/), [Sergei Lebedev](https://github.com/superbobry/).
 
